@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>HALLO</h1>
-    <p>Ini adalah paragraph</a>
+    <p>Ini adalah paragraph</p>
 </body>
 </html>
